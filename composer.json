@@ -1,19 +1,19 @@
 {
-    "name": "arysantri11/pbwl-2023-project-crud-mvc",
-    "description": "Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "name": "ary-uinsu/uts",
+    "description": "Ujian Tengah Semester Matakuliah Pemrograman Berbasis Web Lanjutan Tahun 2023",
     "type": "project",
-    "authors": [
-        {
-            "name": "arysantri11",
-            "email": "arysantri11@gmail.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/"            
         }
     },
+    "authors": [
+        {
+            "name": "Ary Santri Yuanda"
+        }
+    ],
     "require": {
-        "filp/whoops": "^2.14"
+        "php": "*",
+        "filp/whoops": "^2.15"
     }
 }

@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'arysantri11/pbwl-2023-project-crud-mvc',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => '4a64466a88020cba1b326e8e50e5f4400bdacd6a',
+        'name' => 'ary-uinsu/uts',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => NULL,
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'arysantri11/pbwl-2023-project-crud-mvc' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '4a64466a88020cba1b326e8e50e5f4400bdacd6a',
+        'ary-uinsu/uts' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => NULL,
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
